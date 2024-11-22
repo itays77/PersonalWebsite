@@ -36,8 +36,7 @@ import {
  // about data
  const about = {
    title: 'About me',
-   description:
-     'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid error unde omnis doloremque maiores dicta voluptatum, est, inventore veritatis sequi at repellendus consequuntur dolor corrupti illum molestiae',
+   description: 'Junior software developer passionate about crafting efficient solutions through code, and learning new technologies. ',
    info: [
      {
        fieldName: 'Name',
@@ -63,7 +62,7 @@ import {
    icon: '/',
    title: 'My Education',
    description:
-     'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid error unde omnis doloremque maiores dicta voluptatum, est, inventore veritatis sequi at repellendu.',
+     'Diversity in education is key to a well-rounded individual. ',
    items: [
      {
        institution: 'Afeka Academic College of Engineering',
@@ -81,9 +80,9 @@ import {
  //certifications
   const certifications = {
     icon: '/',
-    title: 'Certifications',
+    title: 'My Certifications',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid error unde omnis doloremque maiores dicta voluptatum, est, inventore veritatis sequi at repellendu.',
+      'Continuously expanding knowledge through professional certifications',
     items: [
       {
         provider: 'Amazon Web Services',
@@ -101,8 +100,7 @@ import {
  // skills data
  const skills = {
    title: 'My Skills',
-   description:
-     'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid error unde omnis doloremque maiores dicta voluptatum, est, inventore veritatis sequi at repellendu.',
+   description: 'Versatile tech stack.',
    skillList: [
      {
        icon: <FaJava />,

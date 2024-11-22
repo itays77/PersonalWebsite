@@ -20,7 +20,8 @@ const projects = [
     num: '01',
     category: 'Full Stack',
     title: 'Manch',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description:
+      'Manch is a full-stack food ordering platform connecting restaurants with customers, enabling seamless online ordering, payments, and delivery management',
     stack: [{ name: 'React' }, { name: 'Node.js' }, { name: 'MongoDB' }],
     image: '/assets/project11.png',
     live: '',
@@ -30,7 +31,7 @@ const projects = [
     num: '02',
     category: 'Back End',
     title: 'Still development',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: 'In Progress',
     stack: [
       { name: 'Java' },
       { name: 'Springboot' },

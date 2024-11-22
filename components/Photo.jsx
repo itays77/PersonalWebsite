@@ -24,7 +24,7 @@ const Photo = () => {
           mix-blend-lighten absolute"
         >
           <Image
-            src="/assets/myphoto.png"
+            src="/assets/myphoto2.png"
             priority
             quality={100}
             alt=""

@@ -7,25 +7,29 @@ const services = [
   {
     num: '01',
     title: 'Back End',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+    description:
+      'Building scalable and secure server-side applications that efficiently manage data and handle complex business logic',
     href: '',
   },
   {
     num: '02',
     title: 'Full Stack',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+    description:
+      'Crafting end-to-end solutions using MERN stack, or Java + Springboot',
     href: '',
   },
   {
     num: '03',
     title: 'Cloud',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+    description:
+      'Deploying and managing applications on AWS with focus on scalability and security.',
     href: '',
   },
   {
     num: '04',
     title: 'Web Development',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+    description:
+      'Creating responsive and modern websites using React, Next.js, and Tailwind for optimal user experience.',
     href: '',
   },
 ];
