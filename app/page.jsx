@@ -32,19 +32,11 @@ const Home = () => {
               Hello I'm <br /> <span className="text-accent">Itay Soldin</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              If you take the red pill - you stay in Wonderland, and I show you
-              how deep the rabbit hole goes.
+              Passionate about crafting elegant solutions through code. Always eager to tackle new challenges
+              and bring innovative ideas to life.
             </p>
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <Button
-                varinet="outline"
-                size="lg"
-                className="uppercase flex items-center gap-2"
-              >
-                <span>Download CV</span>
-                <FiDownload className="text-xl" />
-              </Button>
               <div className="mb-8 xl:mb-0">
                 <Social
                   containerStyles="flex gap-6"
